@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/JingwenX/data_analysis/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Here's your first page [My First Page](https://github.com/JingwenX/data_analysis/edit/master/docs/StylingDivs.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
